@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "b7f6031297c1f4555b95c11be5593d17"
+build_time: [1596879433, 613284000]
+inputs:
+  "/Users/murali/Desktop/CoreDataSample/CoreDataSample/DBManager.swift": [1596879245, 344235819]
+  "/Users/murali/Desktop/CoreDataSample/Student+CoreDataClass.swift": [1596877157, 68401619]
+  "/Users/murali/Desktop/CoreDataSample/CoreDataSample/HomeViewController.swift": [1596879433, 572148961]
+  "/Users/murali/Desktop/CoreDataSample/CoreDataSample/AppDelegate.swift": [1596879109, 115315216]
+  "/Users/murali/Desktop/CoreDataSample/User+CoreDataClass.swift": [1596879200, 945661056]
+  "/Users/murali/Desktop/CoreDataSample/CoreDataSample/SceneDelegate.swift": [1596876879, 790050701]
+  "/Users/murali/Desktop/CoreDataSample/Student+CoreDataProperties.swift": [1596877157, 69692488]
+  "/Users/murali/Desktop/CoreDataSample/User+CoreDataProperties.swift": [1596879200, 946836097]
+  "/Users/murali/Desktop/CoreDataSample/CoreDataSample/StudentTableViewCell.swift": [1596879382, 68083229]
